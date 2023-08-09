@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("master version");
         System.out.println("hot-fix version");
         System.out.println("push version");
+        System.out.println("pull version");
     }
 }
